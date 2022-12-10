@@ -2,5 +2,5 @@
   
   <p align="center">
   <a href="https://github.com/usmoxan"><img alt="Profile" src="https://usmoxan.github.io/usmoxan-badge.svg"/></a>
-   <a href="https://t.me/usmoxan"><img alt="Telegram" src="https://usmoxan.github.io/usmoxan-telegram-badge.svg"/></a>
+   <a href="https://t.me/usmoxan"><img alt="Telegram" src="https://usmoxan.github.io/usmoxan-telegram-badge22.svg"/></a>
   </p>
